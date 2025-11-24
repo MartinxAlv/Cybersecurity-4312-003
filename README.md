@@ -23,13 +23,6 @@ I enjoy learning how technology works at every layer and applying that knowledge
 
 ---
 
-### **2. Network Traffic & Incident Analysis**
-- Analyzed DNS and ICMP packet behavior  
-- Identified root causes of service failures  
-- Documented findings in a structured cybersecurity incident report
-
----
-
 ### **3. DDoS Investigation & NIST CSF Response Plan**
 - Examined an ICMP flood DDoS attack scenario  
 - Mapped actions to the NIST CSF functions (Identify, Protect, Detect, Respond, Recover)  
