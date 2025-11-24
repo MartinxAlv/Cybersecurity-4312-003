@@ -1,66 +1,72 @@
 # Martin Alvarado – Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio. My name is **Martin Alvarado**, and this repository highlights my journey into the cybersecurity field. After completing the **Google Cybersecurity Professional Certificate**, I gained hands-on experience through practical labs, investigations, and security-focused projects that demonstrate my ability to analyze incidents, apply security controls, and protect systems.
+Welcome to my cybersecurity portfolio. My name is **Martin Alvarado**, and this repository documents my entry into the cybersecurity field. After completing the Google Cybersecurity Professional Certificate, I built a series of hands-on projects demonstrating my ability to analyze incidents, secure systems, and apply real-world security frameworks.
 
-This portfolio showcases the work I’ve completed throughout my training and reflects my commitment to entering the cybersecurity industry.
-
----
-
-## 🔐 About Me
-
-I am an aspiring cybersecurity professional with a passion for problem-solving, threat analysis, and building secure systems. My technical background includes Linux system management, network traffic analysis, incident response, and risk evaluation.
-
-I enjoy learning how technology works at every layer and applying that knowledge to strengthen defenses and reduce vulnerabilities.
+This portfolio will continue to expand as I develop more projects, tools, and security analyses.
 
 ---
 
-## 📘 Featured Projects
+## 📂 Current Projects in This Repository
 
-### **1. Linux File Permissions & Access Control**
-- Used `ls -lA` to evaluate file and directory permissions  
-- Updated access rights using `chmod`  
-- Applied least privilege principles to protect sensitive data
+### **🔸 NIST-security-response**
+A structured response plan based on the NIST Cybersecurity Framework.  
+Shows:  
+- Analysis of a simulated DDoS attack  
+- Identify → Protect → Detect → Respond → Recover workflow  
+- Recommendations for improving security posture  
 
----
+### **🔸 internal-security-audit**
+An internal audit focused on organizational assets, risks, and controls.  
+Includes:  
+- Controls and compliance checklist  
+- PCI DSS, GDPR, SOC analysis  
+- Security recommendations and risk review  
 
-### **3. DDoS Investigation & NIST CSF Response Plan**
-- Examined an ICMP flood DDoS attack scenario  
-- Mapped actions to the NIST CSF functions (Identify, Protect, Detect, Respond, Recover)  
-- Recommended security improvements and response measures
+### **🔸 linux-commands**
+Linux-based administrative and security tasks.  
+Covers:  
+- File and directory permission analysis (`ls -lA`)  
+- Applying least privilege using `chmod`  
+- Securing hidden files and directories  
 
----
-
-### **4. Controls & Compliance Checklist**
-- Evaluated cybersecurity controls across administrative, technical, and physical categories  
-- Assessed compliance with PCI DSS, GDPR, and SOC frameworks  
-- Suggested improvements to strengthen compliance posture
-
----
-
-### **5. Botium Toys Security Audit**
-- Assessed organizational assets and risk factors  
-- Identified control gaps and areas of high exposure  
-- Delivered recommendations to improve the company’s security program
-
----
-
-## 🛠 Tools & Technologies
-
-- **Linux (Ubuntu, Debian)**
-- **Bash / Shell Commands**
-- **Wireshark / tcpdump**
-- **Security Frameworks:** NIST CSF, PCI DSS, GDPR, SOC  
-- **Incident Response Processes**
-- **Identity & Access Management (IAM)**
-- **File Permissions & Access Control**
+### **🔸 professional-statement**
+A short professional cybersecurity introduction that highlights:  
+- My strengths  
+- Values  
+- Motivation for entering cybersecurity  
 
 ---
 
-## 🎯 Career Goals
+## 🚀 More Projects Coming Soon
+I will continue adding more portfolio projects to this repository as I complete them. Upcoming additions may include:
 
-I am working toward a role where I can help organizations stay secure by monitoring systems, responding to incidents, and implementing strong security controls. My long-term goal is to become a cybersecurity analyst specializing in network defense and incident handling.
+- Network traffic & packet analysis  
+- SIEM log investigations  
+- Vulnerability assessment lab reports  
+- Malware or hash analysis labs  
+- Automation scripts for security tasks  
+
+Stay tuned — this portfolio is actively growing.
 
 ---
 
-Thank you for viewing my work!  
-If you’d like to connect or see more, feel free to explore the rest of this repository.
+## 🛠 Skills & Tools Demonstrated
+
+- **Linux (Ubuntu/Debian)**  
+- **Bash / CLI tools**  
+- **Wireshark / tcpdump**  
+- **NIST CSF framework**  
+- **Security controls & compliance**  
+- **Incident response documentation**  
+- **IAM / Access control**  
+
+---
+
+## 👋 About Me
+
+I am an aspiring cybersecurity professional focused on defending systems, analyzing threats, and building strong security practices. My work emphasizes clarity, structure, and real-world security thinking. As I progress further in the field, I aim to specialize in network defense and incident response.
+
+---
+
+Thank you for exploring my portfolio.  
+More updates coming soon!
