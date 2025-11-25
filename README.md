@@ -1,72 +1,84 @@
 # Martin Alvarado – Cybersecurity Portfolio
 
-Welcome to my cybersecurity portfolio. My name is **Martin Alvarado**, and this repository documents my entry into the cybersecurity field. After completing the Google Cybersecurity Professional Certificate, I built a series of hands-on projects demonstrating my ability to analyze incidents, secure systems, and apply real-world security frameworks.
+Welcome to my cybersecurity portfolio. My name is **Martin Alvarado**, and this repository showcases my practical, hands-on experience in cybersecurity. After completing the *Google Cybersecurity Professional Certificate*, I began developing real-world projects that demonstrate my ability to analyze incidents, secure systems, and apply industry-standard frameworks.
 
-This portfolio will continue to expand as I develop more projects, tools, and security analyses.
+This portfolio will continue to expand as I gain more experience and build new tools, reports, and security automations.
 
 ---
 
-## 📂 Current Projects in This Repository
+## 📂 Projects Included in This Repository
 
-### **🔸 NIST-security-response**
-A structured response plan based on the NIST Cybersecurity Framework.  
-Shows:  
+### 🔸 **NIST-security-response**
+A structured incident response report aligned with the NIST Cybersecurity Framework.  
+Demonstrates:
 - Analysis of a simulated DDoS attack  
-- Identify → Protect → Detect → Respond → Recover workflow  
-- Recommendations for improving security posture  
-
-### **🔸 internal-security-audit**
-An internal audit focused on organizational assets, risks, and controls.  
-Includes:  
-- Controls and compliance checklist  
-- PCI DSS, GDPR, SOC analysis  
-- Security recommendations and risk review  
-
-### **🔸 linux-commands**
-Linux-based administrative and security tasks.  
-Covers:  
-- File and directory permission analysis (`ls -lA`)  
-- Applying least privilege using `chmod`  
-- Securing hidden files and directories  
-
-### **🔸 professional-statement**
-A short professional cybersecurity introduction that highlights:  
-- My strengths  
-- Values  
-- Motivation for entering cybersecurity  
+- Use of the **Identify → Protect → Detect → Respond → Recover** lifecycle  
+- Strategic recommendations to improve an organization’s security posture  
 
 ---
 
-## 🚀 More Projects Coming Soon
-I will continue adding more portfolio projects to this repository as I complete them. Upcoming additions may include:
+### 🔸 **internal-security-audit**
+An internal security audit examining organizational assets, risks, and security controls.  
+Includes:
+- Controls and compliance checklist  
+- References to PCI DSS, GDPR, and SOC frameworks  
+- Risk review and recommended mitigation strategies  
 
-- Network traffic & packet analysis  
-- SIEM log investigations  
-- Vulnerability assessment lab reports  
-- Malware or hash analysis labs  
-- Automation scripts for security tasks  
+---
 
-Stay tuned — this portfolio is actively growing.
+### 🔸 **linux-commands**
+A collection of Linux-based security and system administration tasks.  
+Covers:
+- Reviewing file/directory permissions (`ls -lA`)  
+- Applying least privilege with `chmod`  
+- Hardening techniques involving hidden files and directories  
+
+---
+
+### 🔸 **Python-algorithm**
+A Python automation script designed to update an allow-list by removing restricted IP addresses.  
+Demonstrates:
+- File handling  
+- List manipulation  
+- Secure automation logic for access control updates  
+
+---
+
+### 🔸 **parling-lot-usb-exercise**
+A USB baiting risk analysis based on a common social-engineering scenario.  
+Includes:
+- Review of sensitive data exposure  
+- Attacker mindset breakdown  
+- Technical and procedural mitigations  
+
+---
+
+### 🔸 **professional-statement**
+A concise professional introduction summarizing:
+- My core strengths  
+- Career motivations  
+- Security-focused mindset  
 
 ---
 
 ## 🛠 Skills & Tools Demonstrated
 
 - **Linux (Ubuntu/Debian)**  
-- **Bash / CLI tools**  
+- **Bash / Command-line tools**  
 - **Wireshark / tcpdump**  
+- **Python for security automation**  
 - **NIST CSF framework**  
-- **Security controls & compliance**  
 - **Incident response documentation**  
 - **IAM / Access control**  
+- **Risk & compliance fundamentals**  
 
 ---
 
 ## 👋 About Me
 
-I am an aspiring cybersecurity professional focused on defending systems, analyzing threats, and building strong security practices. My work emphasizes clarity, structure, and real-world security thinking. As I progress further in the field, I aim to specialize in network defense and incident response.
+I am an aspiring cybersecurity professional focused on securing systems, analyzing threats, and building strong defense strategies. My work emphasizes clarity, accuracy, and real-world application of security principles. As I progress, I aim to specialize in **network defense and incident response** while continuing to expand my technical skillset.
 
 ---
 
-Thank you for exploring my portfolio.  
+Thank you for viewing my portfolio.  
 More updates coming soon!
